@@ -4,6 +4,11 @@
 .gitconfig
 .profile
 .motd_shown
+.lesshst
+*vim/.netrwhist
+*viminfo
+*gitignore
+*viminfo
 
 # Ignore swap/temporary files
 *.swp
