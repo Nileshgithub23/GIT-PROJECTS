@@ -1,0 +1,11 @@
+# Ignore SSH keys and configs
+.ssh/
+.bashrc
+.gitconfig
+.profile
+.motd_shown
+
+# Ignore swap/temporary files
+*.swp
+*.tmp
+
